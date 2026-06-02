@@ -1,0 +1,20 @@
+display_name: LyricFlow
+generic_name: Music Player
+icon: assets/icon.png
+
+keywords:
+  - Music
+  - Audio
+  - FLAC
+  - Lyrics
+  - Player
+
+categories:
+  - AudioVideo
+  - Music
+
+startup-notify: true
+
+actions: []
+
+metainfo: linux/packaging/com.sebas.lyricflow.appdata.xml

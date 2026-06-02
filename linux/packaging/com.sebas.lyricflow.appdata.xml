@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.sebas.lyricflow</id>
+
+  <name>LyricFlow</name>
+  <summary>Fullscreen local music player with synced lyrics and gamepad support</summary>
+
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+
+  <description>
+    <p>
+      LyricFlow is a local music player focused on FLAC playback, synchronized lyrics,
+      fullscreen TV mode and gamepad navigation.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">lyricflow.desktop</launchable>
+
+  <categories>
+    <category>AudioVideo</category>
+    <category>Music</category>
+  </categories>
+
+  <url type="homepage">https://github.com/sebastianhzt/LyricFlow</url>
+
+  <releases>
+    <release version="0.1.0" date="2026-06-01">
+      <description>
+        <p>Initial testing build.</p>
+      </description>
+    </release>
+  </releases>
+</component>
